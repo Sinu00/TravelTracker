@@ -57,16 +57,3 @@ Before you begin, ensure you have the following installed:
     ```
 
     The application will be accessible at [http://localhost:3000](http://localhost:3000).
-
-## Usage
-
-- Visit [http://localhost:3000](http://localhost:3000) in your browser to use the Travel Tracker application.
-
-## Contributing
-
-Feel free to contribute to this project by submitting issues or pull requests.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
